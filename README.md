@@ -43,15 +43,15 @@ Berikut grafik hasil transformasi log
 ### Pemodelan K-Means
 Menentukan Jumlah Cluster
 Hasil Elbow dan Silhoutte
-<br><img src="elbow.png" width="500">
+<br><img src="elbow.png" width="600">
 
 K terbaik = 4
 
 Hasil Clustering 
-<br><img src="distribusicluster.png" width="500">
+<br><img src="distribusicluster.png" width="400">
 
 ### Ringkasan karakteristik tiap cluster:
-<br><img src="distribusirfm.png" width="300"><br>
+<br><img src="distribusirfm.png" width="700"><br>
 Cluster 0 menunjukkan kelompok pelanggan yang masih cukup aktif karena memiliki nilai recency yang tinggi, menandakan transaksi dilakukan baru-baru ini. Namun, aktivitas pembelian lainnya berada pada tingkat menengah; frequency tidak terlalu sering, monetary berada pada level sedang, dan jumlah barang serta total profit yang dihasilkan juga tidak terlalu tinggi. menggambarkan pelanggan yang masih terlibat tetapi belum memberikan nilai pembelian yang besar.
 
 Cluster 1 berisi pelanggan dengan recency yang sangat tinggi, tetapi fitur lainnya—frequency, monetary, jumlah barang, dan total profit—justru rendah. Pola ini mengindikasikan bahwa pelanggan dalam cluster ini baru saja melakukan transaksi, namun intensitas dan nilai pembeliannya kecil. Dengan kata lain, mereka lebih condong sebagai pembeli baru atau pembeli sekali beli yang belum menunjukkan konsistensi dalam bertransaksi.
