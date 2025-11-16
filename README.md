@@ -48,7 +48,7 @@ Hasil Elbow dan Silhoutte
 K terbaik = 4
 
 Hasil Clustering 
-<br><img src="distribusicluster.png" width="300">
+<br><img src="distribusicluster.png" width="500">
 
 ### Ringkasan karakteristik tiap cluster:
 <br><img src="distribusirfm.png" width="300"><br>
